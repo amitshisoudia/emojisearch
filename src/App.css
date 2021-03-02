@@ -1,0 +1,31 @@
+
+
+.bg{
+  background-color: rgb(255, 196, 0);
+}
+
+.searchbar{
+  width: 30%;
+  height: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+.searchbar input{
+  margin: 30px 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-family: source-code-pro,menlo,Monaco,Consolas,"Courier New";
+
+}
+p{
+  font-size: 50px;
+  background-color: darkcyan;
+  height: 100px;
+  text-align: center;
+  margin-top: 0%;
+
+}
+.submit{
+  background-color: darkgreen;
+
+}
